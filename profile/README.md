@@ -40,7 +40,7 @@ Desarrollamos soluciones sólidas y optimizadas para facilitar la vida de la com
     </td>
     <td align="center" width="150">
       <a href="https://github.com/">
-        <img src="https://github.com/.png?size=100" width="80" style="border-radius: 50%;" alt="Leinnerr"/><br />
+        <img src="https://github.com/.png?size=100" width="80" style="border-radius: 50%;" alt="Not Found"/><br />
         <sub><b></b></sub>
       </a><br />
       <small>Co-Founder & Dev</small>

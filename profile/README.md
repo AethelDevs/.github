@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="Aethel Devs™.png" alt="Aethel Devs Logo" width="280"/>
+  <img src="01_AethelDevs_Social_Avatar_800x800.png" alt="Aethel Devs Logo" width="280"/>
 
   # Aethel Devs™
 

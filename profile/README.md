@@ -1,93 +1,158 @@
-<div align="center">
+ <div align="center">
 
-  <img src="01_AethelDevs_Social_Avatar_800x800.png" alt="Aethel Devs Logo" width="280"/>
+  <img src="https://github.com/Aethel-Devs.png?size=200" width="140" alt="Aethel Devs avatar" />
 
-  # Aethel Devs™
+  <h1>Aethel Devs™</h1>
 
-  **DEVELOPMENT • SYSTEMS • AUTOMATION**
+  <p><strong>DEVELOPMENT · SYSTEMS · AUTOMATION</strong></p>
 
-  ¡Bienvenido a **Aethel Devs™**! Somos una organización enfocada en el desarrollo de software, scripting eficiente, automatización de sistemas y herramientas de asistencia para desarrolladores (*Dev Helping*).
+  <p>
+    Construimos herramientas, automatizaciones y soluciones de software
+    para mejorar la experiencia de desarrollo y simplificar tareas técnicas.
+  </p>
 
-  [![GitHub Stars](https://img.shields.io/github/stars/Aethel-Devs?style=for-the-badge&logo=github&color=8A2BE2)](https://github.com/orgs/Aethel-Devs/repositories)
-  [![License](https://img.shields.io/badge/License-MIT-purple.svg?style=for-the-badge)](LICENSE)
-  [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+  <p>
+    <a href="https://github.com/Aethel-Devs?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositorios-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" />
+    </a>
+    <a href="https://github.com/Aethel-Devs">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-### 🚀 ¿Qué hacemos en Aethel Devs?
+<div align="center">
 
-Desarrollamos soluciones sólidas y optimizadas para facilitar la vida de la comunidad de desarrolladores y optimizar flujos de trabajo en servidores y sistemas.
+## 🚀 Sobre Aethel Devs
 
-- ⚙️ **Scripting & Automatización:** Scripts para utilidades del sistema, despliegue continuo (CI/CD) y gestión de tareas rutinarias.
-- 💻 **Desarrollo Web & Software:** Proyectos modernos orientados a alto rendimiento y escalabilidad.
-- 🛠️ **Dev Helping & Herramientas:** Recursos, plantillas, configuraciones de entorno y módulos auxiliares para agilizar el desarrollo.
-- ⚡ **Sistemas & Servidores:** Configuraciones de infraestructura, contenedores y entornos eficientes.
-
----
-
-### 👥 Equipo y Miembros
-
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/xBreidyMV">
-        <img src="https://github.com/xBreidyMV.png?size=100" width="80" style="border-radius: 50%;" alt="xBreidyMV"/><br />
-        <sub><b>xBreidyMV</b></sub>
-      </a><br />
-      <small>Founder & Lead Dev</small>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/">
-        <img src="https://github.com/.png?size=100" width="80" style="border-radius: 50%;" alt="Not Found"/><br />
-        <sub><b></b></sub>
-      </a><br />
-      <small>Co-Founder & Dev</small>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tecnologías y Herramientas Principalmente Utilizadas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<p>
+  Aethel Devs™ es una organización enfocada en el desarrollo de software,
+  la automatización de tareas y la creación de herramientas para desarrolladores.
 </p>
 
----
+<p>
+  Nuestro objetivo es crear soluciones prácticas, mantenibles y eficientes
+  que faciliten los flujos de trabajo y la administración de sistemas.
+</p>
 
-### 📌 Proyectos Destacados
-
-> *¡Explora nuestros repositorios para encontrar herramientas de automatización, scripts útiles y proyectos de código abierto!*
-
-| Repositorio | Descripción | Lenguaje/Tech |
-| :--- | :--- | :--- |
-| **`scripting-utilities`** | Colección de scripts optimizados para automatización de tareas y servidores. | `Bash` / `Python` |
-| **`dev-toolkit`** | Conjunto de herramientas auxiliares y helpers para desarrolladores. | `TypeScript` / `Node.js` |
-| **`system-configs`** | Configuraciones y plantillas de despliegue para entornos de desarrollo. | `Docker` / `YAML` |
-
----
-
-### 🤝 ¿Quieres contribuir?
-
-¡Las contribuciones son siempre bienvenidas!
-1. Haz un **Fork** de cualquiera de nuestros repositorios.
-2. Crea tu rama de características (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza un **Commit** con tus cambios (`git commit -m 'Añadir nueva característica'`).
-4. Realiza un **Push** a la rama (`git push origin feature/nueva-caracteristica`).
-5. Abre un **Pull Request**.
+</div>
 
 ---
 
 <div align="center">
 
-  **Aethel Devs™** — *Transformando procesos con código y automatización.*
+## 💡 Áreas de trabajo
+
+**⚙️ Automatización**
+
+<p>Scripts, tareas repetitivas y optimización de procesos.</p>
+
+**💻 Desarrollo de software**
+
+<p>Aplicaciones, herramientas y servicios de software.</p>
+
+**🧰 Herramientas para desarrolladores**
+
+<p>Utilidades, plantillas y recursos para agilizar el desarrollo.</p>
+
+**🖥️ Sistemas e infraestructura**
+
+<p>Configuración de entornos, servidores y herramientas de despliegue.</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 👥 Nuestro equipo
+
+<a href="https://github.com/xBreidyMV">
+  <img src="https://github.com/xBreidyMV.png?size=120" width="100" alt="Perfil de xBreidyMV" />
+</a>
+
+<p>
+  <strong><a href="https://github.com/xBreidyMV">xBreidyMV</a></strong>
+  <br />
+  <sub>Founder · Lead Developer</sub>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tecnologías y herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📌 Proyectos
+
+<p>
+  Explora los repositorios públicos de Aethel Devs para conocer
+  las herramientas y proyectos disponibles.
+</p>
+
+<a href="https://github.com/Aethel-Devs?tab=repositories">
+  <img src="https://img.shields.io/badge/Explorar_proyectos-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Explorar proyectos" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Contribuciones
+
+<p>
+  ¿Quieres colaborar? Explora nuestros repositorios y revisa sus
+  instrucciones para conocer cómo puedes contribuir.
+</p>
+
+<p>
+  <strong>1.</strong> Explora un repositorio.
+  <br />
+  <strong>2.</strong> Crea una rama para tus cambios.
+  <br />
+  <strong>3.</strong> Realiza tus modificaciones y un commit.
+  <br />
+  <strong>4.</strong> Abre un Pull Request si está permitido.
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+  <h3>Aethel Devs™</h3>
+
+  <p><i>Development · Systems · Automation</i></p>
+
+  <a href="https://github.com/Aethel-Devs">GitHub</a>
 
 </div>

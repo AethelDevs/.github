@@ -1,6 +1,6 @@
  <div align="center">
 
-  <img src="https://github.com/Aethel-Devs.png?size=200" width="140" alt="Aethel Devs avatar" />
+  <img src="https://github.com/AethelDevs.png?size=200" width="140" alt="Aethel Devs avatar" />
 
   <h1>Aethel Devs™</h1>
 

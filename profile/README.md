@@ -80,6 +80,16 @@
   <sub>Founder · Lead Developer</sub>
 </p>
 
+<a href="https://github.com/AtLeinnerr">
+  <img src="https://github.com/AtLeinnerr.png?size=120" width="100" alt="Perfil de AtLeinnerr" />
+</a>
+
+<p>
+  <strong><a href="https://github.com/AtLeinnerr">AtLeinnerr</a></strong>
+  <br />
+  <sub>CO-Founder · Developer</sub>
+</p>
+
 </div>
 
 ---
